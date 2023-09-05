@@ -3,7 +3,7 @@ Una de las mayores razones por las que los desarrolladores aman Reviw es por la 
 
 Si se ha tomado el tiempo para desarrollar un JWPUB, por favor considere añadirlo a el canal de <a href="https://livrasand.github.io/jwpub-catalog.html">JWPUB Catalog</a> predeterminado para que los usuarios puedan instalar y conservar fácilmente su JWPUB actualizado. 
 
-Siga los siguientes pasos para solicitar un JWTOKEN y enviarlo a JWPUB Catalog:
+Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB Catalog:
 
 ### 1. Revisión de los paquetes existentes
 - **Visite la <a href="https://livrasand.github.io/jwpub-catalog.html">página de búsqueda</a> y busque JWPUB's similares.**
