@@ -31,15 +31,25 @@ Añada su repositorio al canal por defecto
 ```json
     {
         "imageURL": "https://user-images.githubusercontent.com/104039397/224440449-57551d30-c50a-4227-9fcb-1b639b2d4a04.jpg", 
-        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/ritf_S_2022.jwpub", 
+        "downloadURL": "https://github.com/livrasand/livrasand.github.io/raw/main/jwpub-catalog/ritf_S_2022.jwpub",
+	"repositoryURL": "https://github.com/livrasand/Permanezcan-en-la-fe",
         "title": "\"Permanezcan en la fe\" (Hechos 14:22)",
-	      "language": "1",
-	      "symbol": "ritf",
-	      "year": "2023"
+	"language": "1",
+	"symbol": "ritf",
+	"year": "2023"
     }, 
 ```
 
 Puedes saber el número de tu idioma [aquí](https://www.jw.org/es/languages).
+
+**Nota:** Si alguno de los siguientes campos está ausente en este JSON, es porque fue creado por el equipo de GoAttendant:
+
+- `repositoryURL`
+- `language`
+- `symbol`
+- `year`
+
+Apreciamos tu comprensión.
 
 ### 6. Ejecute las pruebas
 - Instale el paquete <a href="https://github.com/livrasand/ReviwTools">ReviwTools</a> vía Package Control.
