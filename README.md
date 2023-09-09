@@ -6,6 +6,7 @@ Si se ha tomado el tiempo para desarrollar un JWPUB, por favor considere añadir
 Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB Catalog:
 
 ### 1. Revisión de los paquetes existentes
+- **Instala [Reviw](https://github.com/livrasand/Reviw) para Sublime Text.**.
 - **Visite la <a href="https://livrasand.github.io/jwpub-catalog.html">página de búsqueda</a> y busque JWPUB's similares.**
 - **Si existe uno similar al suyo, trate de mejorar un JWPUB existente antes de añadir otro.** Cuando sea posible animamos firmemente a trabajar con un JWPUB existente y ser mantenedor para añadir funcionalidades o ajustar un JWPUB en lugar de estar proliferando muchas opciones muy similares. Esto es especialmente cierto si su JWPUB es muy simple.
 
@@ -17,6 +18,7 @@ Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB
 
 ### 3. Aloje su JWPUB
 - **Utilice un repositorio público de GitHub.** Sólo incluir un archivo por repositorio y asegúrese de que la raíz del paquete es la raíz del repositorio.
+- **Crea tu JWPUB.** Visita el hosting del libro ["Permanezcan en la fe"](https://github.com/livrasand/Permanezcan-en-la-fe) en GitHub, para que obtengas una idea de como organizar tu repositorio. 
 
 ### 4. Elija una estrategia de versiones
 Crea una etiqueta cada vez que desee poner una nueva versión a disposición de los usuarios. Los nombres de la etiqueta deben ser un <a href="http://semver.org/">número de versión semántica</a>.
