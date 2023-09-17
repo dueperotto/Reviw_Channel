@@ -18,7 +18,7 @@ Siga los siguientes pasos para solicitar su JWPUB empaquetado y enviarlo a JWPUB
 
 ### 3. Aloje su JWPUB
 - **Utilice un repositorio público de GitHub.** Sólo incluir un archivo por repositorio y asegúrese de que la raíz del paquete es la raíz del repositorio.
-- **Crea tu JWPUB.** Visita el hosting del libro ["Permanezcan en la fe"](https://github.com/livrasand/Permanezcan-en-la-fe) en GitHub, para que obtengas una idea de como organizar tu repositorio. 
+- **Crea tu JWPUB.**
 
 ### 4. Elija una estrategia de versiones
 Crea una etiqueta cada vez que desee poner una nueva versión a disposición de los usuarios. Los nombres de la etiqueta deben ser un <a href="http://semver.org/">número de versión semántica</a>.
@@ -26,9 +26,9 @@ Crea una etiqueta cada vez que desee poner una nueva versión a disposición de 
 ### 5. Prepare su repositorio
 Añada su repositorio al canal por defecto
 
-- Haga `Fork` al repositorio <a href="https://github.com/livrasand/Reviw_Channel/">Reviw original</a>.
+- Haga `Fork` al repositorio <a href="https://github.com/livrasand/Reviw_Channel/">Reviw_Channel</a>.
 - Clone su fork a su máquina
-- Abra la carpeta `Reviw/` con Sublime Text
+- Abra la carpeta `Reviw_Channel/` con Sublime Text
 - Añada la información de su JWPUB en el JSON correspondiente `publications.json`:
 ```json
     {
